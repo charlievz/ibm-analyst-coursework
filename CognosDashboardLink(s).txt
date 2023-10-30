@@ -1,7 +1,3 @@
 Dashboard to visualize survey responses from SWEs:
 
 https://eu-de.dataplatform.cloud.ibm.com/dashboards/cb3a7528-5b7f-4bb8-baed-18e153aca4a5/view/6617a63720ef37d767fcf6e40790780e2f632154b2bb840681837b495e607297a83c1a98c87d1a5c8e130330f0e51359cd
-
-
-
-
